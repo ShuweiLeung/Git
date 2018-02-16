@@ -1,2 +1,2 @@
 # Notes
-My notes about Leetcode!
+My notes about Leetcode with Python!
