@@ -1,2 +1,1 @@
-# Leetcode
-My ideas with Leetcode!
+# Git
