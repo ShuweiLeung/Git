@@ -1,2 +1,2 @@
-# Notes
-My notes!
+# Leetcode
+My ideas with Leetcode!
